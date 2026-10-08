@@ -1,0 +1,9 @@
+{
+    "name":"harshika",
+    "isTeacher":true,
+    "address":{
+        "city":"navsari",
+        "country":"India"
+    },
+    "subjects":["python","AI/ML"]
+}

@@ -1,0 +1,36 @@
+# # DATA structure--
+# # indexing list[0]
+# # slicing [start:end:step]
+
+# # unpacking
+# # a,b,c=[1,2,3]--so a=1,b=2,c=3,*details,_
+# max()
+# min(),len(),all()-check missing value,
+# any(alteast one true), 
+# count-how many time count appears,
+# index,
+# in operator
+# append=insert at the end
+# insert--any position
+# clear- to clean full list
+# remove - remove from any perticular value
+# pop-default it value is last element of list, but we can provide position also
+# sort()-lowest to highest,reverse=True
+# reverse
+# copy-a=b, copy.deepcopy. list.copy(),copy.copy
+# +-combine two list
+# extend-one list in another list
+# zip -- [1,2,3]--[4,5,6]====[(1,4),(2,5),(3,6)]
+# enumerate(list)--also index and value , for eg list=[1,2,3]==op==(0,1),(1,2),(2,3)
+# enumerate(list,start=1)--also index and value ,if we give start than it start from that value here is 1 so it start with 1 here
+#  for eg list=[1,2,3]==op==(1,1),(2,2),(3,3)
+
+# map function--map(any method for data transformation, list)-e.g--map(str.upper,list),map(str.lower,list),
+# map(int,list)--convert all list item in int
+
+# filter(condition rule,list)--python keep only data which full feel conditions
+
+# comprehension=[data transformation,loop,filter]
+# output=lambda input:condition or expression
+# output=filter(lambda input:condition or expression),listName)
+# output=map(lambda input:condition or expression),listName)
